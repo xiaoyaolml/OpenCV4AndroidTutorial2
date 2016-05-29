@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.leon.opencv4android.tutorial2.MainActivity">
+    <item
+        android:id="@+id/action_preview_rgba"
+        android:orderInCategory="100"
+        android:title="@string/action_preview_rgba"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_preview_gray"
+        android:orderInCategory="100"
+        android:title="@string/action_preview_gray"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_canny"
+        android:orderInCategory="100"
+        android:title="@string/action_canny"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_find_features"
+        android:orderInCategory="100"
+        android:title="@string/action_find_features"
+        app:showAsAction="never"/>
+</menu>

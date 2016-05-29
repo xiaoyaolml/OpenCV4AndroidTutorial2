@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tutorial2</string>
+    <string name="action_preview_rgba">Preview RGBA</string>
+    <string name="action_preview_gray">Preview GRAY</string>
+    <string name="action_canny">Canny</string>
+    <string name="action_find_features">Find features</string>
+</resources>
